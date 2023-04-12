@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IndentTab
 - 👀 I’m interested in learning anything that challenges me.
-- 🌱 I’m currently learning C and German
+- 🌱 I’m currently learning C++ and German
 - 📫 Reach me @ srijitaspeaks@gmail.com
 
 <!---
