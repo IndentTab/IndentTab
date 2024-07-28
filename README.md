@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IndentTab
 - 👀 I’m interested in learning anything that challenges me.
-- 🌱 I’m currently learning Java at the moment and German
-- 🖥️ I'm interested in Web development and Data science and analytics.
+- 🌱 I’m currently expanding my knowledge in DevOps and learning German on the side!
+- 🖥️ I'm interested in Cloud computing and take interest in Data science and analytics.
 - 📫 Reach me @ srijitaspeaks@gmail.com
 
 <!---
